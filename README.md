@@ -1,11 +1,11 @@
 # Uavs Jamming Detection
 All the details for our UAVs Jammming Detection project
 ## Experimental Environment 
-In folder screen_shot_ for_GNU we attached the detailed parameters for other developer to reproduce the experimental environment.
+In folder 'screen_shot_ for_GNU we attached' the detailed parameters for other developer to reproduce the experimental environment.
 ## Machine Learning
-In folder feature_based_machine_learning we attached the detailed the dataset and codes.
+In folder 'feature_based_machine_learning' we attached the detailed the dataset and codes.
 ## Deep Learning
-In folder spectrogram_based_deep_learning we attached the detailed codes. And the datasets were uploaded to google drive(too large to up load in github)
+In folder 'spectrogram_based_deep_learning' we attached the detailed codes. And the datasets were uploaded to google drive(too large to up load in github)
 ## Contact/Help
 If you have any porblems we are glad to provide assistance. **Please do provide a complete problem description containing**
 1. What exactly where you trying to do?
