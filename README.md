@@ -10,7 +10,7 @@ In folder 'spectrogram_based_deep_learning' we attached the detailed codes. And 
 If you have any porblems we are glad to provide assistance. **Please do provide a complete problem description containing**
 1. What exactly where you trying to do?
 2. What steps did you perform to achieve this?
-3. What happend (with complete verbose output)?
+3. What happend (with screenshot better)?
 4. Why do you think something went wrong? What should have happend instead?
 
 Maintainer of this project:
