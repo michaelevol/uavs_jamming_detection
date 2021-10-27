@@ -16,10 +16,10 @@ If you have any porblems we are glad to provide assistance. **Please do provide 
 Maintainer of this project:
 
 Khair Al Shamaileh<br/>
-kalshama[at]pnw.edu
+kalshama@pnw.edu
 
 Quamar Niyaz<br/>
-qniyaz[at]pnw.edu
+qniyaz@pnw.edu
 
 Yuchen Li<br/>
-li3647[at]pnw.edu
+li3647@pnw.edu
