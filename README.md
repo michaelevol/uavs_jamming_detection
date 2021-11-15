@@ -1,4 +1,4 @@
-# UAVs Jamming Detection
+# UAVs Jamming Detection and Classification
 All the details for our UAVs Jammming Detection project
 ## Experimental Environment 
 In folder 'screen_shot_ for_GNU we attached' the detailed parameters for other developer to reproduce the experimental environment.
