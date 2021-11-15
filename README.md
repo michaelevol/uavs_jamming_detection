@@ -8,12 +8,15 @@ This folder contains the dataset we used for training and testing. It also conta
 This folder contains the spectrograms dataset we used for training and testing. It also has the python codes for the four CNN deep learing classifiers.
 ## Contact/Help
 If you have any porblems we are glad to provide assistance. **Please do provide a complete problem description containing**
-1. What exactly where you trying to do?
+1. What exactly are you trying to do?
 2. What steps did you perform to achieve this?
 3. What happend (with screenshot better)?
 4. Why do you think something went wrong? What should have happend instead?
 
 Maintainer of this project:
+
+Yuchen Li<br/>
+li3647@pnw.edu
 
 Khair Al Shamaileh<br/>
 kalshama@pnw.edu
@@ -23,6 +26,3 @@ qniyaz@pnw.edu
 
 Sidike Paheding<br/>
 spahedin@mtu.edu
-
-Yuchen Li<br/>
-li3647@pnw.edu
