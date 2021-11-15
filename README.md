@@ -1,7 +1,7 @@
 # UAVs Jamming Detection and Classification
 All the details for our UAVs Jammming Detection project
 ## Experimental Environment 
-In folder 'screen_shot_ for_GNU we attached' the detailed parameters for other developer to reproduce the experimental environment.
+In folder 'The Screeenshots of GNU Radio Blocks for Launching Jamming Attacks', the detailed parameters for launching jamming attacks via GNU Radio are provided.
 ## Machine Learning
 In folder 'feature_based_machine_learning' we attached the detailed the dataset and codes.
 ## Deep Learning
